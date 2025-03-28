@@ -92,6 +92,22 @@ document.getElementById('shipping').addEventListener('input', calculateFormulas)
 3. **مقدار ورودی غیر عددی (NaN):**
 اگر کاربر هر یک از ورودی‌ها را به صورت غیر عددی وارد کند (مثلاً حروف به جای اعداد)، برنامه خطا نمایش میدهد.
 
+----
+
+## تصاویر نمونه از پروژه انجام شده:
+
+1. **حالت درست و محاسبه موارد داده شده:**
+
+![image](https://github.com/user-attachments/assets/92127f80-49e2-48d4-8d4b-3f712fa2c7c7)
+
+
+2. **حالت نادرست و نمایش ارور:**
+
+   ![image](https://github.com/user-attachments/assets/e84c80e4-32be-428e-b41b-04df643afea4)
+   --
+![image](https://github.com/user-attachments/assets/ab9d72a8-7bcf-4989-a08a-2814827dd016)
+--
+![image](https://github.com/user-attachments/assets/97076b60-27c4-425c-b6bc-7abf9f431d90)
 
 
 
